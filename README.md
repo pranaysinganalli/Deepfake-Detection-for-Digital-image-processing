@@ -22,10 +22,7 @@ We have used a popular DeepFake dataset (referenced within the notebook) for rea
 - If needed, you can download the processed dataset (e.g., JPEG format frames) from the links provided in the notebook.
 
 ## 📖 Referred Papers
-All the papers referred to in our project report are listed in the `references/` folder:
-
-- The file names match their reference numbers in the report (e.g., `12.pdf` for reference [12]).
-- There is also a folder named `All papers` inside the above folder which contains the additional research papers used during the literature survey (submitted as DA-1).
+All the papers referred to in our project report are listed in the `/Reference papers/` folder:
 
 ## 🚀 Steps to Run
 
@@ -54,11 +51,10 @@ Performance on the test set:
 - **F1-Score**: 92.2%
 
 ## 🖼️ Sample Output
-- **Red** = Predicted label
-- **Blue** = True label
+![image](https://github.com/user-attachments/assets/2b19efc7-919b-4da4-ae65-a43e4a9796e9)
+![image](https://github.com/user-attachments/assets/b4546be8-0a54-4ceb-8e7f-de28e1965cd0)
 
-> *(Include visualizations here if needed)*
 
----
+
 
 Feel free to contribute or raise issues!
