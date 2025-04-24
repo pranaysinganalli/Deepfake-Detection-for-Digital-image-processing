@@ -1,5 +1,5 @@
-### An efficient video model for Deepfake Detection
-# Digital image processing
+# An efficient video model for Deepfake Detection
+### Digital image processing
 Project files for the assignment "An efficient video model for Deepfake Detection" under Prof. Geetha S.
 This repository contains the code, output of our project as well as the report, base paper, reference papers ans presentation. Read below for more info
 
