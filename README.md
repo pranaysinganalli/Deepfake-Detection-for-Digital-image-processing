@@ -1,17 +1,13 @@
-# Digital-image-processing
+### An efficient video model for Deepfake Detection
+# Digital image processing
 Project files for the assignment "An efficient video model for Deepfake Detection" under Prof. Geetha S.
-
-# Cephalogram Landmark Detection using Coordinate Attention Module
-
-This repository contains the code, output of our project as well as the report, survey (DA-1 and survey paper draft), presentation. Read below for more info
+This repository contains the code, output of our project as well as the report, base paper, reference papers ans presentation. Read below for more info
 
 ### Team
 
-Rakesh Kumar K S - 20BAI1055
+Pranay Singanalli - 22BCE1140
 
-Jayasurya S - 20BAI1004
-
-Ayyappan T - 20BAI1305
+Vertika Singh - 22BCE1148
 
 ### Major frameworks
 
